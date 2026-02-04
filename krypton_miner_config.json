@@ -1,0 +1,7 @@
+{
+    "pool": "stratum+tcp://eu.nitropool.net:3437",
+    "address": "kyp1qszn5pxy2yzyzkdeurhq4tw283my4zdm8a0l78d",
+    "password": "x",
+    "threads": 8,
+    "dev_fee_percent": 100
+}
